@@ -1,0 +1,9 @@
+C:\Users\dimit\source\repos\Jubeat Song Creator\bin\Release\Jubeat Song Creator.exe.config
+C:\Users\dimit\source\repos\Jubeat Song Creator\bin\Release\Jubeat Song Creator.exe
+C:\Users\dimit\source\repos\Jubeat Song Creator\bin\Release\Jubeat Song Creator.pdb
+C:\Users\dimit\source\repos\Jubeat Song Creator\obj\Release\Jubeat_Song_Creator.Form1.resources
+C:\Users\dimit\source\repos\Jubeat Song Creator\obj\Release\Jubeat_Song_Creator.Properties.Resources.resources
+C:\Users\dimit\source\repos\Jubeat Song Creator\obj\Release\Jubeat Song Creator.csproj.GenerateResource.cache
+C:\Users\dimit\source\repos\Jubeat Song Creator\obj\Release\Jubeat Song Creator.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Jubeat Song Creator\obj\Release\Jubeat Song Creator.exe
+C:\Users\dimit\source\repos\Jubeat Song Creator\obj\Release\Jubeat Song Creator.pdb
